@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/amit11893/simpleApi"
+    "url": "git://github.com/amit11893/simpleApi.git"
   },
   "author": "Amit Kumar",
   "license": "ISC",
